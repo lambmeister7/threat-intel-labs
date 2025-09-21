@@ -15,14 +15,6 @@ Each folder contains:
 - 🔍 Relevant standards & references
 
 ---
-
-## 🔓 Current Projects
-
-### ✅ 01-AML-Cyber-Strategy-Map  
-> A career architecture map showing how cyber, AML, and AI combine into a modern intelligence career path.
-
----
-
 ## 📍 About Me
 I'm Lambert Agbeehia — a cybersecurity, compliance, and AI-driven fraud prevention consultant building a career worth trusting.
 
@@ -33,5 +25,5 @@ Follow my journey:
 
 ## 📆 Roadmap
 Stay tuned for monthly case uploads.  
-**Next Project:** Threat Actor Risk Register (August 2025)
+
 
