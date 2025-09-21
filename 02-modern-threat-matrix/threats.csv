@@ -1,0 +1,11 @@
+Threat ID,Threat Name,Threat Type,Likelihood,Impact,Risk Score,Industry Affected
+T01,Deepfake KYC Fraud,AML/ID Fraud,High,High,9,Banking
+T02,Phishing-as-a-Service,Cybercrime-as-a-Service,High,Medium,6,Enterprise/Finance
+T03,SIM Swapping for MFA Bypass,Account Takeover,Medium,High,6,Fintech
+T04,AI-Generated Money Mules,AML/Onboarding,Medium,High,6,Remittance
+T05,Crypto-based Ransomware Payments,Crypto/Ransomware,High,High,9,Healthcare/ Gov
+T06,Insider Trading via AI Aggregators,AML/Market Abuse,Low,High,3,Finance
+T07,QR Code Scams in Payment Apps,Mobile Threat,Medium,Medium,4,Consumer
+T08,Supply Chain Compromise (3rd-party SaaS),Vendor Risk,High,High,9,Enterprise
+T09,Fraudulent Invoice Injection,Social Engineering,Medium,Medium,4,SMBs
+T10,AI-Voiced CEO Fraud (Vishing),Social Engineering,Medium,High,6,Executive/C-Suite
