@@ -53,5 +53,5 @@ This project demonstrates my ability to think like a Financial Threat Intelligen
 
 ---
 
-**🔐 Built by:** Lambert Agbeehia – Financial Threat Intelligence Specialist  
-**🔗 Connect:** [LinkedIn](https://www.linkedin.com/in/lambmeister) | [Notion Portfolio](https://www.notion.so/lambmeister/GRC-Portfolio-Lambert-Agbeehia-2069db7c04e080869bc8dce66cef2d7a)
+**🔐 Built by:** Lambert Agbeehia – Financial Threat & Cyber Intelligence Specialist  
+ [Notion Portfolio](https://www.notion.so/lambmeister/GRC-Portfolio-Lambert-Agbeehia-2069db7c04e080869bc8dce66cef2d7a)
